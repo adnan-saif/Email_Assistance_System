@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+mail/
+credentials.json
+token.json
+token_send.json
