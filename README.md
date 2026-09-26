@@ -1,6 +1,66 @@
-# Email Intelligence Assistant
+# 📧 AI Email Assistant
 
-A Streamlit Gmail workspace for inbox prioritization, email summaries, notes, and AI-generated threaded replies.
+> An AI-powered email management and productivity assistant designed to help users read, understand, organize, and respond to emails more efficiently.
+
+## 📌 Overview
+
+**AI Email Assistant** is an intelligent email productivity application that uses artificial intelligence to simplify everyday email tasks.
+
+The assistant can help users understand lengthy emails, generate professional replies, summarize conversations, and improve email-writing efficiency through a simple and intuitive interface.
+
+---
+
+## ✨ Features
+
+- 🤖 **AI-Powered Email Assistant**  
+  Interact with an AI assistant to perform common email-related tasks.
+
+- 📝 **Email Draft Generation**  
+  Generate professional email drafts based on a short description or instructions.
+
+- 💬 **Smart Reply Suggestions**  
+  Create relevant responses to incoming emails.
+
+- 📋 **Email Summarization**  
+  Summarize long emails and email conversations into concise points.
+
+- ✨ **Email Improvement**  
+  Rewrite emails to make them clearer, more professional, concise, or friendly.
+
+- 🎯 **Tone Adjustment**  
+  Adapt emails to different tones such as:
+  - Professional
+  - Friendly
+  - Formal
+  - Concise
+  - Casual
+
+- 📂 **Email Organization**  
+  Assist users in understanding and categorizing emails.
+
+- ⚡ **Productivity Focused**  
+  Reduce the time required to read and respond to routine emails.
+
+---
+
+## 🏗️ Project Structure
+
+```text
+AI_Email_Assistant/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── ...
+│   └── ...
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 ## Structure
 
